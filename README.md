@@ -8,15 +8,11 @@ To start the development server:
 
 Using npm:
 
-    ```
     npm run dev
-    ```
 
 Using Yarn:
 
-    ```
     yarn dev
-    ```
 
 This will start the app in development mode.  Open [http://localhost:5173](http://localhost:5173) in your browser to view it.  The port may vary; check your terminal output for the correct address.
 
@@ -26,15 +22,11 @@ To build the app for production:
 
 Using npm:
 
-    ```
     npm run build
-    ```
 
 Using Yarn:
 
-    ```
     yarn build
-    ```
 
 
 This will create a `dist` folder with the production-ready files, optimized for deployment.
@@ -45,15 +37,11 @@ This will create a `dist` folder with the production-ready files, optimized for 
 
     Using npm:
 
-    ```
     npm run preview
-    ```
 
     Using Yarn:
 
-    ```
     yarn preview
-    ```
 
     **Note:** This serves the contents of the `dist` folder. It's useful for testing your production build before deploying.
 
