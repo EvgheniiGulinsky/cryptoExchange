@@ -35,15 +35,15 @@ This will create a `dist` folder with the production-ready files, optimized for 
 
 -   To preview the production build *locally*:
 
-    Using npm:
+Using npm:
 
     npm run preview
 
-    Using Yarn:
+Using Yarn:
 
     yarn preview
 
-    **Note:** This serves the contents of the `dist` folder. It's useful for testing your production build before deploying.
+**Note:** This serves the contents of the `dist` folder. It's useful for testing your production build before deploying.
 
 ## Deployment
 
