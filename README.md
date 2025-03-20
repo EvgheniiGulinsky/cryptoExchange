@@ -4,6 +4,20 @@
 
 This README provides instructions on how to set up and run the Vite app.
 
+**Install dependencies:**
+
+Using npm:
+
+    ```
+    npm install
+    ```
+
+Using Yarn:
+
+    ```
+    yarn
+    ```
+
 To start the development server:
 
 Using npm:
